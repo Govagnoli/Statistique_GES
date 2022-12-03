@@ -1,6 +1,6 @@
 # Statistique_GES
 
-Le projet est un rapport de statistique sur les consommations de gaz à effet de serre des pays du monde.
+Le projet est un rapport statistique sur les consommations de gaz à effet de serre des pays du monde.
 
 J'ai réalisé ce projet en binôme. Nous devions, avec une base de donnée réupérer en ligne, trouver deux graphiques. Le premier graphique devait mal représenter les données et le second devait présenter une meilleure représentation des données. L'objectif était de comprendre qu'il était facile de faire mentir un graphique et donc de démontrer qu'on pouvait déformé la réalité avec une mauvaise exploitation des données.
 
